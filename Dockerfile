@@ -2,7 +2,7 @@ FROM openjdk
 
 WORKDIR /application
 
-COPY Masnour.java .
+COPY Mansour.java .
 
 RUN javac Mansour.java
 
